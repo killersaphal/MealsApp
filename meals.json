@@ -1,4 +1,4 @@
-"Dummy_Meals"  : [
+{"Dummy_Meals"  : [
   {
     "id": "m1",
     "name": "Sushi",
@@ -24,3 +24,4 @@
     "price": 18.99,
   },
 ]
+}
